@@ -1,0 +1,14 @@
+W - Move Forward
+A - Strafe Left
+S - Move Backward
+D - Strafe right
+
+'Space' - Sink
+
+'Left Arrow' - Turn Left
+'Right Arrow' - Turn Right
+
+1, 2, 3 - Toggle Camera 1, 2, 3
+9 - Drop Ball 
+
+R - Reset
