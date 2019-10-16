@@ -8,7 +8,7 @@ BRACU_Duburi is one of the leading and recognized projects of BRAC University. I
 Duburi first made its appearance on the international stage in Singapore's AUV competition: SAUVC 2018, securing a 7th position in the rankings. Thus, Duburi has continued to be a staple project of BRAC University.   
 
 Simulator Description:
-This simulator was created to develop a virtual environment for BRACU_Duburi (an Autonomous Underwater Rover) to train its object-detection machine learning algorithm. The main reason being that, having the rover trained frequently in an actual swimming pool was difficult and uneconomical, therefore this simulator offered an easy solution. Hence, testing and training could now be easily done with a computer running the Unity Engine as opposed to practically training the rover in an actual swimming pool. 
+We, the game development department of the Duburi team, created this simulator to develop a virtual environment for BRACU_Duburi (an Autonomous Underwater Rover) to train its object-detection machine learning algorithm. The main reason being that, having the rover trained frequently in an actual swimming pool was difficult and uneconomical, therefore this simulator offered an easy solution. Hence, testing and training could now be easily done with a computer running the Unity Engine as opposed to practically training the rover in an actual swimming pool. 
 
 Primary Softwares used:
 . Unity Game Engine
